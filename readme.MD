@@ -30,7 +30,7 @@ Para um maior entendimento do código deste repositório, [assista nosso vídeo 
 - Crie um usuário com acesso programático (aws_access_key_id & aws_secret_access_key)
 - Instale a AWS CLI no seu computador e execute o 'aws configure'
 - Instale o Terraform CLI no seu computador
-- Gere um KeyPair para poder acessar a EC2 via SSH (openssl genrsa -out keypair.pem 2048)
+- Gere um KeyPair para poder acessar a EC2 via SSH (ssh-keygen)
 - Execute 'terraform apply' no terminal
 
 :mag: Baixe o projeto e teste você mesmo na prática.
