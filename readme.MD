@@ -31,7 +31,11 @@ Para um maior entendimento do código deste repositório, [assista nosso vídeo 
 - Instale a AWS CLI no seu computador e execute o 'aws configure'
 - Instale o Terraform CLI no seu computador
 - Gere um KeyPair para poder acessar a EC2 via SSH (ssh-keygen)
-- Execute 'terraform apply' no terminal
+- Execute 'terraform init' dentro da pasta 'infra' no terminal
+- Execute 'terraform plan' dentro da pasta 'infra' para verificar o plano de criação do terraform
+
+- Execute 'terraform apply' dentro da pasta 'infra' para criar a infraestrutura
+- Execute 'terraform destroy' dentro da pasta 'infra' destruir toda a infraestrutura criada
 
 :mag: Baixe o projeto e teste você mesmo na prática.
 
