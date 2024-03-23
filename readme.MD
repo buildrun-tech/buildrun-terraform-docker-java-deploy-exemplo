@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="20%" src="https://github.com/buildrun-tech/buildrun-terraform-ec2-ssh-exemplo/blob/main/images/logoterraform.png"> 
+    <img width="50%" src="https://github.com/buildrun-tech/buildrun-terraform-ec2-ssh-exemplo/blob/main/images/logoterraform.png"> 
 </p>
 
 
